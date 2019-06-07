@@ -6,6 +6,8 @@ sources.
 
 Finally, the project used JAVA to build JDBC data access layer and use JSP to build the web application.
 
+Project presentation site: https://youtu.be/Lw3uZXsAXYc.
+
 The project finally delivers a website which requires a user to register and login to the account. Users have a username and password. Furthermore, we will provide service for students and companies log in to our website. Students can register, build their profiles, upload their existing resumes, and look for internship postings matching their skill sets. Using a database of internship listing website, companies can register, post jobs, and search job seeker profiles. Companies can view profiles of registered students and contact them, initiative an interview, or perform some other action related to their post. In addition, registered users should be able to search for jobs and filter the results based on location, required skills, salary, experience level, etc.
 
 Future plans:
